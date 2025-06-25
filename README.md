@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <em>Estudiante de tercer año de la Licenciatura en Sistemas en la <strong>Universidad Nacional de Lanús</strong>.</em>
+  <em> 📚 Estudiante de tercer año de la Licenciatura en Sistemas en la <strong>Universidad Nacional de Lanús</strong>.</em>
 </p>
 
 <hr>
 
-## 🌐 Contactame en...
+## 💬 Contactame en...
 
 <p align="center">
   <a href="mailto:echavarria.martin@hotmail.com">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## 🧠 Herramientas y Tecnologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>

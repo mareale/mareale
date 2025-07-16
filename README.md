@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/martinechav_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://drive.google.com/file/d/1xnuj14ol7KrcsL3lJjjmuWh91BSPjPH8/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1lyWRfasUaPEdQXOva2IiOrYAXcLm7yif/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículum-3399cc?style=for-the-badge" alt="Currículum"/>
   </a>
 </p>

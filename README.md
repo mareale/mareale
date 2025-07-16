@@ -6,19 +6,20 @@
   <em> 📚 Estudiante de tercer año de la Licenciatura en Sistemas en la <strong>Universidad Nacional de Lanús</strong>.</em>
 </p>
 
-<hr>
-
 ## 💬 Contactame en...
 
 <p align="center">
   <a href="mailto:echavarria.martin@hotmail.com">
-  <img src="https://img.shields.io/badge/echavarria.martin@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+    <img src="https://img.shields.io/badge/echavarria.martin@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/martinechavarria" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/martinechav_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1xnuj14ol7KrcsL3lJjjmuWh91BSPjPH8/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Currículum-3399cc?style=for-the-badge" alt="Currículum"/>
   </a>
 </p>
 
